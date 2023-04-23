@@ -1,8 +1,8 @@
 # IDF-Lomdot-solver
 
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg2YzZmOWU5NjFlNmRjNTVkYTVkYjdmYjNiNzlhZDkwZGIzZjc0NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/K0Njp5Ja5t3bUcqpVv/giphy.gif)
+![ezgif com-optimize](https://user-images.githubusercontent.com/54208288/233824957-689333e1-3458-4290-b98d-7f268ca7fae8.gif)
 
-https://giphy.com/gifs/K0Njp5Ja5t3bUcqpVv
+
 
 פותר לומודות אוטומטי:
 פותר לומדות באתר צהל אוטומטי, גם לטלפון!
@@ -17,3 +17,4 @@ Just copy all the `script.js` content, and paste it on the console (F12 -> conso
 
 New:
 Download the chrome extenstion from the release tab, install in a supported browser (For example: KIWI), active it from extenstions tab, and start a lomda.
+
