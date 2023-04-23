@@ -1,0 +1,15 @@
+{
+	"manifest_version": 3,
+	"name": "IDF Lomdot Solver",
+	"version": "0.0.1",
+	"content_scripts": [{
+		"matches": ["https://www.prat.idf.il/lomdot/*"],
+		"js": ["script.js"]
+	}],
+	"icons": {
+		
+	},
+	"author": "orel56000();#1143",
+	"description": "פותר לומדות אוטומטי | GitHub: https://github.com/orel56000/IDF-Lomdot-solver",
+	
+}
