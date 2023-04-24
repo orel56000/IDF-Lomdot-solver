@@ -9,12 +9,12 @@
 
 
 Solves IDF's lomdot
-Available to all chrome based browsers that support extenstion. Even mobile phones.
+Available to all chrome based browsers that support extension. Even mobile phones.
 
 Old:
 Just copy all the `script.js` content, and paste it on the console (F12 -> console).
 
 
 New:
-Download the chrome extenstion from the release tab, install in a supported browser (For example: KIWI), active it from extenstions tab, and start a lomda.
+Download the chrome extension from the release tab, install in a supported browser (For example: KIWI), active it from extensions tab, and start a lomda.
 
